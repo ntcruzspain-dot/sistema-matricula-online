@@ -27,7 +27,7 @@ Passo a Passo
 Clone o repositório:
 
 Bash
-git clone [URL-DO-SEU-REPOSITORIO]
+git clone (https://github.com/ntcruzspain-dot/sistema-matricula-online.git)
 Configuração do Backend:
 
 Bash
